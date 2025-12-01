@@ -1,6 +1,6 @@
 # About the project
 
-This project **complements the project named ‘’** published on Github.
+This project **complements the project named ‘tailor-pulp-e-commerce-web-app’** published on Github.
 
 For context, like the original project, this project features a **completely fictional company** named Tailor'Pulp, created for **illustrative purposes**.
 **All company names, brands, products, employees, or locations mentioned** in the code, frontend are **fictitious**.
@@ -54,7 +54,7 @@ e.g. Cookies, JWT Token
 ## 2. Set up the repository
 
 ```bash
-git clone https://github.com/alextechbuild/.git
+git clone https://github.com/alextechbuild/tailor-pulp-e-commerce-web-app-sb-jv.git
 ```
 
 Navigate to the repository
