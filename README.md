@@ -45,12 +45,6 @@ More information on https://console.cloud.google.com/
 
 Have generated an App Password for Google SMTP (optional if another SMTP service is selected)
 
-### Recommanded
-
-#### jose library
-
-e.g. Cookies, JWT Token
-
 ## 2. Set up the repository
 
 ```bash
